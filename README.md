@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="left">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=I-Keima&theme=jolly"/>
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Keima&layout=compact&theme=jolly"/>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=I-Keima&theme=dark_lover&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **I-Keima/I-Keima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
